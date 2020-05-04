@@ -1,0 +1,11 @@
+{
+  "name": "stock",
+  "version": 2,
+  "alias": ["stock"],
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build"
+    }
+  ]
+}
