@@ -1,8 +1,6 @@
 <template>
   <div>
-    <h1>Stock brokers</h1>
-    <!-- <p> -->
-    Welcome to stock brokers, you can get good and affordable rates of stock from us stocks from stockholders,
+    <h1>Stock brokers</h1>Welcome to stock brokers, you can get good and affordable rates of stock from us stocks from stockholders,
     <br />A little to tip on how to use this mini application,
     <ul class="list-group">
       <li class="list-group-item">
@@ -27,7 +25,6 @@
         class="list-group-item"
       >the funds account allows you to see how much you have in your wallet so you could purchase any stock</li>
     </ul>
-    <!-- </p> -->
   </div>
 </template>
 
