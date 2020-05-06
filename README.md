@@ -1,6 +1,6 @@
-# https://stocks-8hvnjd61c.now.sh
 
-# stock
+# stock  https://stocks-8hvnjd61c.now.sh
+
 
 ## Project setup
 ```
