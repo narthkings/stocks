@@ -1,3 +1,5 @@
+# https://stocks-8hvnjd61c.now.sh
+
 # stock
 
 ## Project setup
